@@ -1,6 +1,6 @@
 ---
 title: "Data Visualisation"
-author: ""
+author: "Ella Haechler“
 format:
   html:
     embed-resources: true
@@ -37,7 +37,7 @@ library(rnaturalearth)
 
 3.  On a new line use the `filter()` function to narrow down the data for observation of the year 2007.
 
-4.  Use the assignment operator to assign the data to an object named `gapminder_2007`.
+4.  Use the assignment operator to assign the data to an object named `gapminder_2007`. (?)
 
 5.  Run the code contained in the code chunk and fix any errors.
 
@@ -64,7 +64,7 @@ gapminder_2007 <- gapminder |>
 
 4.  On a new line use the `summarise()` function to calculate the number of observations (count) and median life expectancy.
 
-5.  Use the assignment operator to assign the data to an object named `gapminder_summary_2007`.
+5.  Use the assignment operator to assign the data to an object named `gapminder_summary_2007`. (?)
 
 6.  Run the code contained in the code chunk and fix any errors.
 
